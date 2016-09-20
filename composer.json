@@ -5,9 +5,15 @@
     "keywords": ["rtl", "css"],
     "version" : "1.0.0",
     "license" : "MIT",
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sabberworm/PHP-CSS-Parser"
+        }
+    ],
     "require": {
         "php": ">=5.4",
-        "sabberworm/php-css-parser": "*"
+        "sabberworm/php-css-parser": "8.1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
