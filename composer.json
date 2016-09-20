@@ -1,5 +1,5 @@
 {
-    "name": "moodlehq/rtlcss-php",
+    "name": "studioraz/rtlcss-php",
     "type": "library",
     "description": "Convert CSS to Right-to-Left (Port of RTLCSS)",
     "keywords": ["rtl", "css"],
