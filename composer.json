@@ -8,12 +8,12 @@
      "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/sabberworm/PHP-CSS-Parser"
+            "url": "https://github.com/studioraz/PHP-CSS-Parser"
         }
     ],
     "require": {
         "php": ">=5.4",
-        "sabberworm/php-css-parser": "8.1.0"
+        "studioraz/php-css-parser": "8.1.1"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
