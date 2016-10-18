@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Convert CSS to Right-to-Left (Port of RTLCSS)",
     "keywords": ["rtl", "css"],
-    "version" : "1.0.0",
     "license" : "MIT",
      "repositories": [
         {
